@@ -21,7 +21,7 @@ repository               : "nlaimr/nlaimr.github.io" # "academicpages/academicpa
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "nlaimr-github.jpeg" # "profile.png"
   name             : "Mrinal" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Pursuing PhD in Generative AI/ Natural Language Processing"
