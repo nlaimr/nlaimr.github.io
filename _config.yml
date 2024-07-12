@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mrinal Rawool"
+title                    : "Mrinal's Homepage"
 title_separator          : "-"
 name                     : &name "Mrinal"
 description              : &description "Personal Research Showcase Website"
